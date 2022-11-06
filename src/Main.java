@@ -84,10 +84,7 @@ public class Main {
                 break;
             default:
                 System.out.println("Ничего не подходит");
-
         }
-
-
     }
 }
 
